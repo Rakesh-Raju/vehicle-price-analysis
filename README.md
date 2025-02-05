@@ -17,13 +17,13 @@ Key Objectives
         Handle missing data, correct erroneous entries, and normalize numerical features.
         Convert categorical features into numerical representations using techniques like one-hot encoding.
 
-    Exploratory Data Analysis (EDA):
+    Data Analysis:
         Analyze trends, distributions, and relationships between different features and the target variable (price).
         Visualize key correlations to identify patterns.
 
     Modeling:
         Build and train multiple regression models, including Linear Regression and Ridge Regression.
-        Use performance metrics like RMSE and R² to evaluate the models' accuracy.
+        Use performance metrics to evaluate the models' accuracy.
         Compare the predicted values with the actual values to assess model quality.
 
     Report:
